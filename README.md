@@ -46,12 +46,13 @@ I combine geospatial machine learning, satellite observations, network analysis,
 
 ## 📚 Selected Publications
 
+- **Toward evidence-based zoning: A machine learning framework for land use compatibility assessment.** *Cities* (2026). [DOI](https://doi.org/10.1016/j.cities.2026.107734)
+- **Promoting sustainable urban tourism in historic Sari, Iran through GIS-based walkability planning.** *Scientific Reports* (2026). [DOI](https://doi.org/10.1038/s41598-024-63807-0)
+- **Post-earthquake recovery: GIS-driven prioritization of urban transportation networks in Sari, Iran.** *International Journal of Transportation Science and Technology* (2026). [DOI](https://doi.org/10.1016/j.ijtst.2025.09.005)
 - **Equity in crisis response: A spatial analysis of emergency relief disparities.** *Cities* (2025). [DOI](https://doi.org/10.1016/j.cities.2025.106128)
 - **Challenging environmental justice assumptions: Geographic dominance over social vulnerability in Texas hurricane risk distribution.** *Journal of Geovisualization and Spatial Analysis* (2025). [DOI](https://doi.org/10.1007/s41651-025-00239-y)
-- **A systematic review of GIS evolution in transportation planning: Towards AI integration.** *Future Transportation* (2025). [DOI](https://doi.org/10.3390/futuretransp5030097)
-- **A computational geospatial approach to assessing land-use compatibility in urban planning.** *Land* (2023). [DOI](https://doi.org/10.3390/land12112083)
 
-➡️ [Full publication list](https://omid-mansourihanis.github.io/#publications)
+➡️ [All 16 peer-reviewed papers](https://omid-mansourihanis.github.io/#publications)
 
 ---
 
@@ -62,7 +63,7 @@ I combine geospatial machine learning, satellite observations, network analysis,
 Code and materials for these project areas are being released progressively:
 
 - Urban traffic congestion and causal feature analysis
-- Machine learning for land-use compatibility ([preprint](https://doi.org/10.21203/rs.3.rs-9043733/v1))
+- Machine learning for land-use compatibility ([published in *Cities*, 2026](https://doi.org/10.1016/j.cities.2026.107734))
 - Environmental justice and air-pollution exposure
 - Equity-weighted electric vehicle routing
 - Urban crime and spatial topology
