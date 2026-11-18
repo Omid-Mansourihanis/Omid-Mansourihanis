@@ -58,7 +58,17 @@ I combine geospatial machine learning, satellite observations, network analysis,
 
 ## 📦 Open Data & Reproducible Research
 
-- **Causal Feature Importance Dataset for Urban Traffic Level of Service Across Four U.S. Metropolitan Areas** — processed feature matrix for 134,530 census blocks in Chicago, Houston, Los Angeles, and New York City, with Python analysis code. [Mendeley Data, DOI](https://doi.org/10.17632/tbdn8yhs83.2)
+Datasets and reproducibility packages on Mendeley Data (CC BY 4.0):
+
+| Dataset | Scope | DOI |
+|---|---|---|
+| Block-level traffic Level of Service and urban form predictors | 131,507 census blocks · Chicago, Houston, LA, NYC · notebook + data dictionary | [10.17632/4ghf42bs96](https://doi.org/10.17632/4ghf42bs96) |
+| Causal feature importance dataset for urban traffic Level of Service | 134,530 census blocks · four cities · model code | [10.17632/tbdn8yhs83](https://doi.org/10.17632/tbdn8yhs83) |
+| GeoAI-driven housing affordability: rent burden in New York City | 37,816 census blocks · RF/XGBoost, LISA, K-means | [10.17632/hspnm9pycj](https://doi.org/10.17632/hspnm9pycj) |
+| Cincinnati Metro transit network vulnerability analysis | 3,532 stops · GTFS network · equity overlays · Colab | [10.17632/knxmkcsg9m](https://doi.org/10.17632/knxmkcsg9m) |
+| Graph-theoretic urban planning: Fairfax and Alexandria, VA | Multi-layer walk/drive, POI, and green networks | [10.17632/dprvtz5c4p](https://doi.org/10.17632/dprvtz5c4p) |
+| The geometric directed Chinese Postman Problem | Two-stage algorithm, IP solvers, OSM pipeline | [10.17632/vsdt2wpspw](https://doi.org/10.17632/vsdt2wpspw) |
+| Directed Chinese Postman Problem under angle-monotone turn costs | Approximation algorithm, 500+ perturbation tests | [10.17632/z9vv2zywyr](https://doi.org/10.17632/z9vv2zywyr) |
 
 Code and materials for these project areas are being released progressively:
 
