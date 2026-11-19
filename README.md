@@ -142,6 +142,13 @@ Code and materials for these project areas are being released progressively:
 
 ---
 
+## 🧭 Interactive Web Tools
+
+- **[Manhattan Forward View](https://omid-mansourihanis.github.io/manhattan-forward-view/)** — click any Manhattan street on a 3D map to see the forward view a driver gets: 73 rays from five points per segment, the opening angle θ(R), wall distances, frontage gaps, and a comparison with the Manhattan averages from my study. Runs in the browser on live OpenStreetMap footprints, with no server or API key.
+- **[One visit is enough: COVID-19 and Nowruz](https://omid-mansourihanis.github.io/simulations/covid-nowruz-sari/)** — an interactive household-level simulation of 360,000 residents in a Sari-sized city, with scenarios for families skipping the Nowruz visit.
+
+---
+
 ## 🛠️ Technical Skills
 
 **Programming & Data Science**
