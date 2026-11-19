@@ -56,6 +56,8 @@ I combine geospatial machine learning, satellite observations, network analysis,
 
 I. Hazard exposure & environmental justice · II. Access, protection & resilience · III. Inequality, safety & GeoAI · IV. Remote sensing & validation · V. Urban form, heat & environment · VI. Land use & zoning · VII. Planning practice
 
+**Practice highlight: [Site selection for Fire Station No. 7, Sari (2021)](https://omid-mansourihanis.github.io/portfolio/#fire-station)** — network service areas by distance and travel time exposed coverage gaps that 3 km buffers missed; five candidate sites were ranked with AHP, and the western ring-road site near Bar Square was selected (score 0.428).
+
 ---
 
 ## 📚 Selected Publications
