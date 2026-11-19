@@ -88,7 +88,14 @@ Code and materials for these project areas are being released progressively:
 
 [![Land-use compatibility assessment in 3D — watch the animation](https://omid-mansourihanis.github.io/assets/images/land-use-compatibility-3d-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
 
-▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
+▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations) · Related publications: [*Land* (2023)](https://doi.org/10.3390/land12112083), [*Cities* (2026)](https://doi.org/10.1016/j.cities.2026.107734)
+
+**Aviation obstruction and airspace analysis: Nowshahr Airport** (2021, 1 min) — an Obstruction Evaluation / Airport Airspace Analysis (OE/AAA) that models the airport's protected airspace in 3D to set height limits for high-rise development in Chalus, with nine study maps.
+**Made without AI:** every surface was modeled and animated by hand in ArcGIS ArcScene. Prepared for Chalus Municipality with Faam-Zirsakht Consulting Engineers.
+
+[![Aviation obstruction and airspace analysis — watch the animation](https://omid-mansourihanis.github.io/assets/images/airport-airspace-oeaaa-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+
+▶️ [Watch it and see the study maps on my website](https://omid-mansourihanis.github.io/#animations)
 
 ---
 
