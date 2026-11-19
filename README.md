@@ -81,6 +81,17 @@ Code and materials for these project areas are being released progressively:
 
 ---
 
+## 🎬 3D Animations
+
+**Land-use compatibility assessment in 3D** (2021, 4 min) — a step-by-step walkthrough of a cell-based model that scores the compatibility of every pair of land uses using neighborhood focal analysis in GIS.
+**Made without AI:** every scene was modeled, analyzed, and animated by hand in ArcGIS ArcScene.
+
+[![Land-use compatibility assessment in 3D — watch the animation](https://omid-mansourihanis.github.io/assets/images/land-use-compatibility-3d-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+
+▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
+
+---
+
 ## 🛠️ Technical Skills
 
 **Programming & Data Science**
