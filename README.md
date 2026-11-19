@@ -46,6 +46,18 @@ I combine geospatial machine learning, satellite observations, network analysis,
 
 ---
 
+## 🗺️ Mapping and Research Portfolio
+
+22 research projects and a decade of planning practice in seven themes. [**Open the full portfolio →**](https://omid-mansourihanis.github.io/portfolio/)
+
+| | | |
+|:---:|:---:|:---:|
+| [<img src="https://omid-mansourihanis.github.io/portfolio/img/nyc-1-thumb.jpg" width="250" alt="Emergency access, NYC">](https://omid-mansourihanis.github.io/portfolio/#nyc)<br>**Emergency access, NYC** | [<img src="https://omid-mansourihanis.github.io/portfolio/img/fractal-1-thumb.jpg" width="250" alt="Fractal coherence">](https://omid-mansourihanis.github.io/portfolio/#fractal)<br>**Fractal coherence, 4 megacities** | [<img src="https://omid-mansourihanis.github.io/portfolio/img/hurricane-1-thumb.jpg" width="250" alt="Hurricane risk, Texas">](https://omid-mansourihanis.github.io/portfolio/#hurricane)<br>**Hurricane risk and EJ, Texas** |
+
+I. Hazard exposure & environmental justice · II. Access, protection & resilience · III. Inequality, safety & GeoAI · IV. Remote sensing & validation · V. Urban form, heat & environment · VI. Land use & zoning · VII. Planning practice
+
+---
+
 ## 📚 Selected Publications
 
 - **Toward evidence-based zoning: A machine learning framework for land use compatibility assessment.** *Cities* (2026). [DOI](https://doi.org/10.1016/j.cities.2026.107734)
