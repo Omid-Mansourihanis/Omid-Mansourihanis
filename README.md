@@ -1,3 +1,5 @@
+<img src="https://omid-mansourihanis.github.io/assets/images/profile-avatar.jpg" alt="Omid Mansourihanis" width="160" align="right">
+
 # Hi, I'm Omid Mansourihanis 👋
 
 ### PhD Candidate in Geosciences · Geospatial Machine Learning · Urban Data Science
