@@ -112,6 +112,12 @@ Code and materials for these project areas are being released progressively:
 
 ▶️ [Watch the 2020 original and the 2026 reconstruction](https://omid-mansourihanis.github.io/#animations) · 🧪 [Run the interactive simulation](https://omid-mansourihanis.github.io/simulations/covid-nowruz-sari/)
 
+**Optimal walking routes for elderly health** (3D GIS, about 2.5 min) — a parametric model that finds the most comfortable walking routes, not just the shortest, for elderly and disabled pedestrians. 15 criteria are reclassified 1–5 on the street network, weighted by pairwise comparison (AHP/ANP) in an MCDM overlay, and routed with Dijkstra. In the test city, optimal routes differed from the shortest by about 40–50%.
+
+[![Optimal walking routes for elderly health](https://omid-mansourihanis.github.io/assets/images/walkability-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+
+▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
+
 ---
 
 ## 🛠️ Technical Skills
