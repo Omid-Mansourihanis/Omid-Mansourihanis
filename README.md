@@ -106,11 +106,11 @@ Code and materials for these project areas are being released progressively:
 
 ▶️ [Watch both versions on my website](https://omid-mansourihanis.github.io/#animations)
 
-**One visit is enough: COVID-19 and Nowruz visiting in Sari** (2020, 4 min) — a household-level simulation of 360,000 residents on a 600 × 600 grid. Every family stays home except to visit its parents or in-laws, and that single exception carries the virus to every household in about three weeks.
+**One visit is enough: COVID-19 and Nowruz visiting in Sari** (2020, 4 min) — a household-level simulation of 360,000 residents on a 600 × 600 grid. Every family stays home except to visit its parents or in-laws, and that single exception carries the virus to every household in about three weeks. Rebuilt in 2026 as a 1.5-minute animated explainer, shown next to the original.
 
 [![One visit is enough: COVID-19 and Nowruz visiting in Sari](https://omid-mansourihanis.github.io/assets/images/covid19-nowruz-sari-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
 
-▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations) · 🧪 [Run the interactive simulation](https://omid-mansourihanis.github.io/simulations/covid-nowruz-sari/)
+▶️ [Watch the 2020 original and the 2026 reconstruction](https://omid-mansourihanis.github.io/#animations) · 🧪 [Run the interactive simulation](https://omid-mansourihanis.github.io/simulations/covid-nowruz-sari/)
 
 ---
 
