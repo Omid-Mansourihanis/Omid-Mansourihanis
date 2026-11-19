@@ -4,13 +4,13 @@
 
 ### PhD Candidate in Geosciences · Geospatial Machine Learning · Urban Data Science
 
-[![Website](https://img.shields.io/badge/Website-omid--mansourihanis.github.io-147d84?style=flat-square&logo=githubpages&logoColor=white)](https://omid-mansourihanis.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GrMkyjQAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3009--2902-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3009-2902)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-mansourihanis14ab784/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Omid-Mansourihanis)
-[![ArcGIS](https://img.shields.io/badge/ArcGIS-Link-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)](https://arcg.is/1P0qC81)
-[![Email](https://img.shields.io/badge/Email-omansour%40ttu.edu-0c2438?style=flat-square&logo=maildotru&logoColor=white)](mailto:omansour@ttu.edu)
+[![Website](https://img.shields.io/badge/Website-omid--mansourihanis.github.io-000000?style=flat-square&logo=githubpages&logoColor=white)](https://omid-mansourihanis.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-000000?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GrMkyjQAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3009--2902-000000?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3009-2902)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-mansourihanis14ab784/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-000000?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Omid-Mansourihanis)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS-Link-000000?style=flat-square&logo=arcgis&logoColor=white)](https://arcg.is/1P0qC81)
+[![Email](https://img.shields.io/badge/Email-omansour%40ttu.edu-000000?style=flat-square&logo=maildotru&logoColor=white)](mailto:omansour@ttu.edu)
 
 I develop machine learning and geospatial analytics frameworks to address urban equity, spatial justice, and sustainable development challenges across major U.S. cities.
 
@@ -102,14 +102,14 @@ Code and materials for these project areas are being released progressively:
 **Land-use compatibility assessment in 3D** (2021, 4 min) — a step-by-step walkthrough of a cell-based model that scores the compatibility of every pair of land uses using neighborhood focal analysis in GIS.
 **Made without AI:** every scene was modeled, analyzed, and animated by hand in ArcGIS ArcScene.
 
-[![Land-use compatibility assessment in 3D — watch the animation](https://omid-mansourihanis.github.io/assets/images/land-use-compatibility-3d-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+[![Land-use compatibility assessment in 3D — watch the animation](https://omid-mansourihanis.github.io/assets/images/land-use-compatibility-3d-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations)
 
 ▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations) · Related publications: [*Land* (2023)](https://doi.org/10.3390/land12112083), [*Cities* (2026)](https://doi.org/10.1016/j.cities.2026.107734)
 
 **Aviation obstruction and airspace analysis: Nowshahr Airport** (2021, 1 min) — an Obstruction Evaluation / Airport Airspace Analysis (OE/AAA) that models the airport's protected airspace in 3D to set height limits for high-rise development in Chalus, with nine study maps.
 **Made without AI:** every surface was modeled and animated by hand in ArcGIS ArcScene. Prepared for Chalus Municipality with Faam-Zirsakht Consulting Engineers.
 
-[![Aviation obstruction and airspace analysis — watch the animation](https://omid-mansourihanis.github.io/assets/images/airport-airspace-oeaaa-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+[![Aviation obstruction and airspace analysis — watch the animation](https://omid-mansourihanis.github.io/assets/images/airport-airspace-oeaaa-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations)
 
 ▶️ [Watch it and see the study maps on my website](https://omid-mansourihanis.github.io/#animations)
 
@@ -118,27 +118,27 @@ Code and materials for these project areas are being released progressively:
 
 | Version 1: City traffic flow | Version 2: Public transportation |
 |---|---|
-| [![Sari traffic flow simulation, version 1](https://omid-mansourihanis.github.io/assets/images/sari-traffic-flow-v1-poster.jpg)](https://omid-mansourihanis.github.io/#animations) | [![Sari public transport simulation, version 2](https://omid-mansourihanis.github.io/assets/images/sari-public-transport-v2-poster.jpg)](https://omid-mansourihanis.github.io/#animations) |
+| [![Sari traffic flow simulation, version 1](https://omid-mansourihanis.github.io/assets/images/sari-traffic-flow-v1-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations) | [![Sari public transport simulation, version 2](https://omid-mansourihanis.github.io/assets/images/sari-public-transport-v2-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations) |
 
 ▶️ [Watch both versions on my website](https://omid-mansourihanis.github.io/#animations)
 
 **One visit is enough: COVID-19 and Nowruz visiting in Sari** (2020, 4 min) — a household-level simulation of 360,000 residents on a 600 × 600 grid. Every family stays home except to visit its parents or in-laws, and that single exception carries the virus to every household in about three weeks. Rebuilt in 2026 as a 1.5-minute animated explainer, shown next to the original.
 
-[![One visit is enough: COVID-19 and Nowruz visiting in Sari](https://omid-mansourihanis.github.io/assets/images/covid19-nowruz-sari-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+[![One visit is enough: COVID-19 and Nowruz visiting in Sari](https://omid-mansourihanis.github.io/assets/images/covid19-nowruz-sari-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations)
 
 ▶️ [Watch the 2020 original and the 2026 reconstruction](https://omid-mansourihanis.github.io/#animations) · 🧪 [Run the interactive simulation](https://omid-mansourihanis.github.io/simulations/covid-nowruz-sari/)
 
 **Optimal walking routes for elderly health** (3D GIS, about 2.5 min) — a parametric model that finds the most comfortable walking routes, not just the shortest, for elderly and disabled pedestrians. 15 criteria are reclassified 1–5 on the street network, weighted by pairwise comparison (AHP/ANP) in an MCDM overlay, and routed with Dijkstra. In the test city, optimal routes differed from the shortest by about 40–50%.
 **Made without AI:** modeled and animated in ArcGIS ArcScene.
 
-[![Optimal walking routes for elderly health](https://omid-mansourihanis.github.io/assets/images/walkability-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+[![Optimal walking routes for elderly health](https://omid-mansourihanis.github.io/assets/images/walkability-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations)
 
 ▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
 
 **CROWD: reusing construction waste in Tehran** (about 3 min) — a GIS model that links Tehran's roughly 300,000 dilapidated buildings to new development. With about 40 demolitions and 90 new permits a day, demolition waste is separated and stored in 12 warehouses, then sent to new construction sites.
 **Made without AI:** modeled and animated in ArcGIS ArcScene.
 
-[![CROWD: reusing construction waste in Tehran](https://omid-mansourihanis.github.io/assets/images/crowd-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+[![CROWD: reusing construction waste in Tehran](https://omid-mansourihanis.github.io/assets/images/crowd-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations)
 
 ▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
 
