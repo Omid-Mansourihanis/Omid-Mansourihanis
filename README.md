@@ -144,6 +144,19 @@ Code and materials for these project areas are being released progressively:
 
 ---
 
+## 🏅 Fellowships & Media
+
+- **Elo and Olga Urbanovsky Fellowship**, Texas Tech University (2024–2027)
+- **Covenant Health and Social Services Graduate Fellowship**, Texas Tech University (2024)
+
+📰 [*TTU Doctoral Student Earns Fellowships for Urban Planning Research*](https://www.depts.ttu.edu/artsandsciences/CurrentStudents/news_briefs/TTU_Doctoral_Student_Earns_Fellowships_for_Urban_Planning_Research.php) — Texas Tech University, College of Arts & Sciences (July 2024)
+
+Featured on Texas Tech Arts & Sciences social media: [Instagram](https://www.instagram.com/p/C87G9EQsQT0/) · [Facebook](https://www.facebook.com/TTUArtsSciences) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7213910544863440896) · [X](https://x.com/TTUArtsSciences/status/1808144857388429454)
+
+<a href="https://omid-mansourihanis.github.io/#recognition"><img src="https://omid-mansourihanis.github.io/assets/images/recognition/geosciences-thumb.jpg" alt="Omid Mansourihanis at the Geosciences building, Texas Tech University" width="220"></a>
+
+---
+
 ## 🎓 Affiliation
 
 **PhD Candidate in Geosciences (GISciences)**
