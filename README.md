@@ -110,7 +110,7 @@ Code and materials for these project areas are being released progressively:
 
 [![One visit is enough: COVID-19 and Nowruz visiting in Sari](https://omid-mansourihanis.github.io/assets/images/covid19-nowruz-sari-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
 
-▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
+▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations) · 🧪 [Run the interactive simulation](https://omid-mansourihanis.github.io/simulations/covid-nowruz-sari/)
 
 ---
 
