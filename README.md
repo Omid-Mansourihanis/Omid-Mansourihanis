@@ -97,6 +97,15 @@ Code and materials for these project areas are being released progressively:
 
 ▶️ [Watch it and see the study maps on my website](https://omid-mansourihanis.github.io/#animations)
 
+**Traffic flow simulation of Sari, Iran** (2021, two versions, about 1 min each) — a 3D simulation of vehicles moving through Sari's street network, built from more than 44 million spatiotemporal records. Version 1 shows city-wide traffic flow; Version 2 shows buses and taxis.
+**Made without AI:** built and animated in ArcGIS ArcScene.
+
+| Version 1: City traffic flow | Version 2: Public transportation |
+|---|---|
+| [![Sari traffic flow simulation, version 1](https://omid-mansourihanis.github.io/assets/images/sari-traffic-flow-v1-poster.jpg)](https://omid-mansourihanis.github.io/#animations) | [![Sari public transport simulation, version 2](https://omid-mansourihanis.github.io/assets/images/sari-public-transport-v2-poster.jpg)](https://omid-mansourihanis.github.io/#animations) |
+
+▶️ [Watch both versions on my website](https://omid-mansourihanis.github.io/#animations)
+
 ---
 
 ## 🛠️ Technical Skills
