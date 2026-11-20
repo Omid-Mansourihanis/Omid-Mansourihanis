@@ -142,6 +142,13 @@ Code and materials for these project areas are being released progressively:
 
 ▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
 
+**One line in a plan: the Sari zoning story** (1 min 50 s) — a real project from my seven years at Sari Municipality. I recovered and georeferenced the city's CAD layers into one GIS base, joined every parcel to its zone and street widths, extracted the new plan's rules lot by lot in Python, and found the parcels with unused building capacity, which led to reduced fees for owners who applied for permits early.
+**No AI imagery:** every frame is drawn with Python (cairo) from my own zoning data (1,874 zoning polygons); parcels and buildings are schematic illustrations.
+
+[![One line in a plan: the Sari zoning story](https://omid-mansourihanis.github.io/assets/images/sari-zoning-story-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+
+▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
+
 ---
 
 ## 🧭 Interactive Web Tools
