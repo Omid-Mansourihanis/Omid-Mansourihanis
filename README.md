@@ -97,7 +97,7 @@ Code and materials for these project areas are being released progressively:
 
 ---
 
-## 🎬 3D Animations
+## 🎬 Selected Visualizations and Projects
 
 **Land-use compatibility assessment in 3D** (2021, 4 min) — a step-by-step walkthrough of a cell-based model that scores the compatibility of every pair of land uses using neighborhood focal analysis in GIS.
 **Made without AI:** every scene was modeled, analyzed, and animated by hand in ArcGIS ArcScene.
@@ -112,6 +112,13 @@ Code and materials for these project areas are being released progressively:
 [![Aviation obstruction and airspace analysis — watch the animation](https://omid-mansourihanis.github.io/assets/images/airport-airspace-oeaaa-poster.jpg?v=2)](https://omid-mansourihanis.github.io/#animations)
 
 ▶️ [Watch it and see the study maps on my website](https://omid-mansourihanis.github.io/#animations)
+
+**High-rise development feasibility in Chalus** (3 min) — a GIS-based multi-criteria assessment of where high-rise and infill development can fit in Chalus (about 65,000 people, between the Caspian Sea and the Alborz Mountains). Regulations, 2016 census indicators, an optimal-floors cost model, network-based service areas, road hierarchy, figure–ground and plot orientation, incremental 3D shadow modelling (+1 to +25 floors), environment and airport safeguarding surfaces are combined in a weighted overlay into five block-level capacity classes.
+Prepared for Chalus Municipality with Faam-Zirsakht Consulting Engineers; I worked in the core team as GIS and urban-planning analyst and produced most of the spatial analyses and maps.
+
+[![High-rise development feasibility in Chalus](https://omid-mansourihanis.github.io/assets/images/chalus-highrise-feasibility-poster.jpg)](https://omid-mansourihanis.github.io/#animations)
+
+▶️ [Watch on my website](https://omid-mansourihanis.github.io/#animations)
 
 **Traffic flow simulation of Sari, Iran** (2021, two versions, about 1 min each) — a 3D simulation of vehicles moving through Sari's street network, built from more than 44 million spatiotemporal records. Version 1 shows city-wide traffic flow; Version 2 shows buses and taxis.
 **Made without AI:** built and animated in ArcGIS ArcScene.
